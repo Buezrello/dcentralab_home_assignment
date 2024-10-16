@@ -14,7 +14,7 @@
 ### Setup Instructions
 
 - **clone the repository**
-git clone https://github.com/your_username/your_repo_name.git
+git clone https://github.com/Buezrello/dcentralab_home_assignment.git
 - **install dependencies:**
 pip install -r requirements.txt
 - **run automated tests:**
